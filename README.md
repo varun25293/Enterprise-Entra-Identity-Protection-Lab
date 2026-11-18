@@ -1,4 +1,3 @@
-@'
 # Microsoft Entra ID Protection: Risk-Based Conditional Access & Automated Remediation Lab
 
 Enterprise identity threat detection, risk-based Conditional Access governance, and automated self-remediation lab built on **Microsoft Entra ID P2** and **Windows 11 Pro** (`TESTUSER-1`) within the `ApexModernWork.onmicrosoft.com` tenant.
