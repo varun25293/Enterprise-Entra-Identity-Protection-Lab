@@ -44,8 +44,3 @@ This lab implements real-time identity risk detection and automated access remed
 * **#06 Risky Sign-In Log — Layered Conditional Access Evaluation:** Audited Request ID `4d91b19f-3e62-4a5d-8ca3-7483ab06cc00` confirming `CA004-Enforce-SignIn-Risk-MFA` evaluated alongside `CA001-Enforce-Compliant-Device` and `CA002-Enforce-AuthStrength-Session`.
 
 ![Entra Sign-In Log Risk Evaluation](02-Risk-Simulation-And-Remediation/06-entra-signin-log-risk-evaluation.png)
-'@ | Set-Content -Path .\README.md -Encoding UTF8
-
-git add -A
-git commit -m "Update README and sync all 6 lab screenshots"
-git push -u origin main --force
